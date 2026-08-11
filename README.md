@@ -26,8 +26,8 @@ Pastikan Anda telah menginstal Python (disarankan versi 3.8 ke atas). Library ut
 
 1. **Clone repositori ini (jika menggunakan Git) atau unduh file `.ipynb`:**
    ```bash
-   git clone https://github.com/username-anda/repo-anpr-yolo-easyocr.git
-   cd repo-anpr-yolo-easyocr
+   git clone https://github.com/Brilitech/YOLOv11-EasyOCR-Deteksi-Plat-Nomor.git
+   cd YOLOv11-EasyOCR-Deteksi-Plat-Nomor
    ```
 
 2. **Instal dependensi menggunakan pip:**
